@@ -1,0 +1,777 @@
+{
+    "Layers": [
+        {
+            "Components": [
+                {
+                    "Events": {
+                        "OnClick": null,
+                        "OnDown": null,
+                        "OnPress": null,
+                        "OnUp": null
+                    },
+                    "Properties": {
+                        "Background": {
+                            "Color": "#0000ff",
+                            "ColorTo": "#aa0000",
+                            "Gradient": "LeftRight",
+                            "PressColor": "#0000ff",
+                            "PressColorTo": "#aa0000",
+                            "Transparent": false
+                        },
+                        "ClassType": "Circle",
+                        "Component": {
+                            "Active": false,
+                            "Name": "Circle_1",
+                            "StackOrder": 2,
+                            "Static": false,
+                            "Visible": true
+                        },
+                        "Geometry": {
+                            "Height": 228,
+                            "Left": 260,
+                            "Top": 72,
+                            "Width": 228
+                        },
+                        "Pen": {
+                            "Color": "#ffffff",
+                            "Width": 0
+                        }
+                    }
+                },
+                {
+                    "Events": {
+                        "OnClick": null,
+                        "OnDown": null,
+                        "OnPress": null,
+                        "OnUp": null
+                    },
+                    "Properties": {
+                        "Background": {
+                            "Color": "#0000ff",
+                            "ColorTo": "#aa0000",
+                            "Gradient": "LeftRight",
+                            "PressColor": "#0000ff",
+                            "PressColorTo": "#aa0000",
+                            "Transparent": false
+                        },
+                        "ClassType": "Circle",
+                        "Component": {
+                            "Active": false,
+                            "Name": "Circle_3",
+                            "StackOrder": 2,
+                            "Static": false,
+                            "Visible": true
+                        },
+                        "Geometry": {
+                            "Height": 228,
+                            "Left": 533,
+                            "Top": 72,
+                            "Width": 228
+                        },
+                        "Pen": {
+                            "Color": "#ffffff",
+                            "Width": 0
+                        }
+                    }
+                },
+                {
+                    "Events": {
+                        "OnClick": null,
+                        "OnDown": null,
+                        "OnPress": null,
+                        "OnUp": null
+                    },
+                    "Properties": {
+                        "Background": {
+                            "Color": "#0d0d0d",
+                            "ColorTo": "#0d0d0d",
+                            "Gradient": "TopBottom",
+                            "PressColor": "#000000",
+                            "PressColorTo": "#0d0d0d",
+                            "Transparent": false
+                        },
+                        "ClassType": "Circle",
+                        "Component": {
+                            "Active": false,
+                            "Name": "Circle_2",
+                            "StackOrder": 3,
+                            "Static": false,
+                            "Visible": true
+                        },
+                        "Geometry": {
+                            "Height": 189,
+                            "Left": 280,
+                            "Top": 91,
+                            "Width": 189
+                        },
+                        "Pen": {
+                            "Color": "#ffffff",
+                            "Width": 0
+                        }
+                    }
+                },
+                {
+                    "Events": {
+                        "OnClick": null,
+                        "OnDown": null,
+                        "OnPress": null,
+                        "OnUp": null
+                    },
+                    "Properties": {
+                        "Background": {
+                            "Color": "#0d0d0d",
+                            "ColorTo": "#0d0d0d",
+                            "Gradient": "TopBottom",
+                            "PressColor": "#0d0d0d",
+                            "PressColorTo": "#0d0d0d",
+                            "Transparent": false
+                        },
+                        "ClassType": "Circle",
+                        "Component": {
+                            "Active": false,
+                            "Name": "Circle_4",
+                            "StackOrder": 3,
+                            "Static": false,
+                            "Visible": true
+                        },
+                        "Geometry": {
+                            "Height": 189,
+                            "Left": 553,
+                            "Top": 91,
+                            "Width": 189
+                        },
+                        "Pen": {
+                            "Color": "#ffffff",
+                            "Width": 0
+                        }
+                    }
+                },
+                {
+                    "Events": {
+                        "OnClick": null,
+                        "OnDown": null,
+                        "OnPress": null,
+                        "OnUp": null
+                    },
+                    "Properties": {
+                        "Background": {
+                            "Color": "#0d0d0d",
+                            "ColorTo": "#000000",
+                            "Gradient": "None",
+                            "PressColor": "#000000",
+                            "PressColorTo": "#00ff00",
+                            "Transparent": false
+                        },
+                        "ClassType": "RoundedBox",
+                        "Component": {
+                            "Active": false,
+                            "CornerRadius": 0,
+                            "Name": "RoundedBox_0",
+                            "StackOrder": 4,
+                            "Static": false,
+                            "Visible": true
+                        },
+                        "Geometry": {
+                            "Height": 128,
+                            "Left": 247,
+                            "Top": 209,
+                            "Width": 254
+                        },
+                        "Pen": {
+                            "Color": "#ffffff",
+                            "Width": 0
+                        }
+                    }
+                },
+                {
+                    "Events": {
+                        "OnClick": null,
+                        "OnDown": null,
+                        "OnPress": null,
+                        "OnUp": null
+                    },
+                    "Properties": {
+                        "Background": {
+                            "Color": "#0d0d0d",
+                            "ColorTo": "#000000",
+                            "Gradient": "None",
+                            "PressColor": "#000000",
+                            "PressColorTo": "#00ff00",
+                            "Transparent": false
+                        },
+                        "ClassType": "RoundedBox",
+                        "Component": {
+                            "Active": false,
+                            "CornerRadius": 0,
+                            "Name": "RoundedBox_2",
+                            "StackOrder": 4,
+                            "Static": false,
+                            "Visible": true
+                        },
+                        "Geometry": {
+                            "Height": 128,
+                            "Left": 520,
+                            "Top": 209,
+                            "Width": 254
+                        },
+                        "Pen": {
+                            "Color": "#ffffff",
+                            "Width": 0
+                        }
+                    }
+                },
+                {
+                    "Events": {
+                    },
+                    "Properties": {
+                        "ClassType": "Label",
+                        "Component": {
+                            "Active": true,
+                            "Name": "temp_label",
+                            "StackOrder": 8,
+                            "Static": false,
+                            "Visible": true
+                        },
+                        "Geometry": {
+                            "Height": 28,
+                            "Left": 269,
+                            "Top": 210,
+                            "Width": 99.046875
+                        },
+                        "Text": {
+                            "Caption": "Temperatura",
+                            "Color": "#aa0000",
+                            "Font": "Arial_Normal_36_159_",
+                            "MaxLength": 0,
+                            "VerticalText": false
+                        }
+                    }
+                },
+                {
+                    "Events": {
+                    },
+                    "Properties": {
+                        "ClassType": "Label",
+                        "Component": {
+                            "Active": true,
+                            "Name": "hum_label",
+                            "StackOrder": 9,
+                            "Static": false,
+                            "Visible": true
+                        },
+                        "Geometry": {
+                            "Height": 28,
+                            "Left": 567,
+                            "Top": 210,
+                            "Width": 75.65625
+                        },
+                        "Text": {
+                            "Caption": "Humedad",
+                            "Color": "#aa0000",
+                            "Font": "Arial_Normal_36_159_",
+                            "MaxLength": 0,
+                            "VerticalText": false
+                        }
+                    }
+                },
+                {
+                    "Events": {
+                        "OnClick": null,
+                        "OnDown": null,
+                        "OnPress": null,
+                        "OnUp": null
+                    },
+                    "Properties": {
+                        "Background": {
+                            "Color": "#0d0d0d",
+                            "ColorTo": "#0d0d0d",
+                            "Gradient": "TopBottom",
+                            "PressColor": "#0d0d0d",
+                            "PressColorTo": "#0d0d0d",
+                            "Transparent": false
+                        },
+                        "ClassType": "RoundedBox",
+                        "Component": {
+                            "Active": false,
+                            "CornerRadius": 0,
+                            "Name": "temp_mask",
+                            "StackOrder": 10,
+                            "Static": false,
+                            "Visible": true
+                        },
+                        "Geometry": {
+                            "Height": 49,
+                            "Left": 307,
+                            "Top": 149,
+                            "Width": 138
+                        },
+                        "Pen": {
+                            "Color": "#ffffff",
+                            "Width": 0
+                        }
+                    }
+                },
+                {
+                    "Events": {
+                    },
+                    "Properties": {
+                        "ClassType": "Label",
+                        "Component": {
+                            "Active": true,
+                            "Name": "temp_value",
+                            "StackOrder": 11,
+                            "Static": false,
+                            "Visible": true
+                        },
+                        "Geometry": {
+                            "Height": 28,
+                            "Left": 311,
+                            "Top": 148,
+                            "Width": 62.390625
+                        },
+                        "Text": {
+                            "Caption": "00.00 C",
+                            "Color": "#ffffff",
+                            "Font": "Arial_Normal_36_159_",
+                            "MaxLength": 0,
+                            "VerticalText": false
+                        }
+                    }
+                },
+                {
+                    "Events": {
+                        "OnClick": null,
+                        "OnDown": null,
+                        "OnPress": null,
+                        "OnUp": null
+                    },
+                    "Properties": {
+                        "Background": {
+                            "Color": "#0d0d0d",
+                            "ColorTo": "#0d0d0d",
+                            "Gradient": "TopBottom",
+                            "PressColor": "#0d0d0d",
+                            "PressColorTo": "#0d0d0d",
+                            "Transparent": false
+                        },
+                        "ClassType": "RoundedBox",
+                        "Component": {
+                            "Active": false,
+                            "CornerRadius": 0,
+                            "Name": "hum_mask",
+                            "StackOrder": 12,
+                            "Static": false,
+                            "Visible": true
+                        },
+                        "Geometry": {
+                            "Height": 49,
+                            "Left": 582,
+                            "Top": 146,
+                            "Width": 138
+                        },
+                        "Pen": {
+                            "Color": "#ffffff",
+                            "Width": 0
+                        }
+                    }
+                },
+                {
+                    "Events": {
+                    },
+                    "Properties": {
+                        "ClassType": "Label",
+                        "Component": {
+                            "Active": true,
+                            "Name": "hum_value",
+                            "StackOrder": 13,
+                            "Static": false,
+                            "Visible": true
+                        },
+                        "Geometry": {
+                            "Height": 28,
+                            "Left": 584,
+                            "Top": 146,
+                            "Width": 68.40625
+                        },
+                        "Text": {
+                            "Caption": "00.00 %",
+                            "Color": "#ffffff",
+                            "Font": "Arial_Normal_36_159_",
+                            "MaxLength": 0,
+                            "VerticalText": false
+                        }
+                    }
+                },
+                {
+                    "Events": {
+                        "OnClick": null,
+                        "OnDown": null,
+                        "OnPress": null,
+                        "OnUp": null
+                    },
+                    "Properties": {
+                        "Background": {
+                            "Color": "#0d0d0d",
+                            "ColorTo": "#0d0d0d",
+                            "Gradient": "TopBottom",
+                            "PressColor": "#0d0d0d",
+                            "PressColorTo": "#0d0d0d",
+                            "Transparent": false
+                        },
+                        "ClassType": "RoundedBox",
+                        "Component": {
+                            "Active": false,
+                            "CornerRadius": 0,
+                            "Name": "tensHours_mask",
+                            "StackOrder": 14,
+                            "Static": false,
+                            "Visible": true
+                        },
+                        "Geometry": {
+                            "Height": 120,
+                            "Left": 298,
+                            "Top": 279,
+                            "Width": 54
+                        },
+                        "Pen": {
+                            "Color": "#ffffff",
+                            "Width": 0
+                        }
+                    }
+                },
+                {
+                    "Events": {
+                        "OnClick": null,
+                        "OnDown": null,
+                        "OnPress": null,
+                        "OnUp": null
+                    },
+                    "Properties": {
+                        "Background": {
+                            "Color": "#0d0d0d",
+                            "ColorTo": "#0d0d0d",
+                            "Gradient": "TopBottom",
+                            "PressColor": "#0d0d0d",
+                            "PressColorTo": "#0d0d0d",
+                            "Transparent": false
+                        },
+                        "ClassType": "RoundedBox",
+                        "Component": {
+                            "Active": false,
+                            "CornerRadius": 0,
+                            "Name": "unitsHours_mask",
+                            "StackOrder": 15,
+                            "Static": false,
+                            "Visible": true
+                        },
+                        "Geometry": {
+                            "Height": 120,
+                            "Left": 359,
+                            "Top": 279,
+                            "Width": 54
+                        },
+                        "Pen": {
+                            "Color": "#ffffff",
+                            "Width": 0
+                        }
+                    }
+                },
+                {
+                    "Events": {
+                        "OnClick": null,
+                        "OnDown": null,
+                        "OnPress": null,
+                        "OnUp": null
+                    },
+                    "Properties": {
+                        "Background": {
+                            "Color": "#0d0d0d",
+                            "ColorTo": "#0d0d0d",
+                            "Gradient": "TopBottom",
+                            "PressColor": "#0d0d0d",
+                            "PressColorTo": "#0d0d0d",
+                            "Transparent": false
+                        },
+                        "ClassType": "RoundedBox",
+                        "Component": {
+                            "Active": false,
+                            "CornerRadius": 0,
+                            "Name": "tensMinutes_mask",
+                            "StackOrder": 16,
+                            "Static": false,
+                            "Visible": true
+                        },
+                        "Geometry": {
+                            "Height": 120,
+                            "Left": 441,
+                            "Top": 279,
+                            "Width": 54
+                        },
+                        "Pen": {
+                            "Color": "#ffffff",
+                            "Width": 0
+                        }
+                    }
+                },
+                {
+                    "Events": {
+                        "OnClick": null,
+                        "OnDown": null,
+                        "OnPress": null,
+                        "OnUp": null
+                    },
+                    "Properties": {
+                        "Background": {
+                            "Color": "#0d0d0d",
+                            "ColorTo": "#0d0d0d",
+                            "Gradient": "TopBottom",
+                            "PressColor": "#0d0d0d",
+                            "PressColorTo": "#0d0d0d",
+                            "Transparent": false
+                        },
+                        "ClassType": "RoundedBox",
+                        "Component": {
+                            "Active": false,
+                            "CornerRadius": 0,
+                            "Name": "unitsMinutes_mask",
+                            "StackOrder": 17,
+                            "Static": false,
+                            "Visible": true
+                        },
+                        "Geometry": {
+                            "Height": 120,
+                            "Left": 502,
+                            "Top": 279,
+                            "Width": 54
+                        },
+                        "Pen": {
+                            "Color": "#ffffff",
+                            "Width": 0
+                        }
+                    }
+                },
+                {
+                    "Events": {
+                        "OnClick": null,
+                        "OnDown": null,
+                        "OnPress": null,
+                        "OnUp": null
+                    },
+                    "Properties": {
+                        "Background": {
+                            "Color": "#0d0d0d",
+                            "ColorTo": "#0d0d0d",
+                            "Gradient": "TopBottom",
+                            "PressColor": "#0d0d0d",
+                            "PressColorTo": "#0d0d0d",
+                            "Transparent": false
+                        },
+                        "ClassType": "RoundedBox",
+                        "Component": {
+                            "Active": false,
+                            "CornerRadius": 0,
+                            "Name": "ampm_mask",
+                            "StackOrder": 18,
+                            "Static": false,
+                            "Visible": true
+                        },
+                        "Geometry": {
+                            "Height": 120,
+                            "Left": 600,
+                            "Top": 279,
+                            "Width": 54
+                        },
+                        "Pen": {
+                            "Color": "#ffffff",
+                            "Width": 0
+                        }
+                    }
+                },
+                {
+                    "Events": {
+                    },
+                    "Properties": {
+                        "ClassType": "Label",
+                        "Component": {
+                            "Active": true,
+                            "Name": "time_value",
+                            "StackOrder": 20,
+                            "Static": false,
+                            "Visible": true
+                        },
+                        "Geometry": {
+                            "Height": 28,
+                            "Left": 414,
+                            "Top": 270,
+                            "Width": 55.984375
+                        },
+                        "Text": {
+                            "Caption": ":      M",
+                            "Color": "#aa0000",
+                            "Font": "Seven_Segment_Regular_121_159_",
+                            "MaxLength": 0,
+                            "VerticalText": false
+                        }
+                    }
+                },
+                {
+                    "Events": {
+                    },
+                    "Properties": {
+                        "ClassType": "Label",
+                        "Component": {
+                            "Active": true,
+                            "Name": "tensHours_value",
+                            "StackOrder": 21,
+                            "Static": false,
+                            "Visible": true
+                        },
+                        "Geometry": {
+                            "Height": 28,
+                            "Left": 292,
+                            "Top": 271,
+                            "Width": 16.734375
+                        },
+                        "Text": {
+                            "Caption": "0",
+                            "Color": "#aa0000",
+                            "Font": "Seven_Segment_Regular_121_159_",
+                            "MaxLength": 0,
+                            "VerticalText": false
+                        }
+                    }
+                },
+                {
+                    "Events": {
+                    },
+                    "Properties": {
+                        "ClassType": "Label",
+                        "Component": {
+                            "Active": true,
+                            "Name": "unitsHours_value",
+                            "StackOrder": 22,
+                            "Static": false,
+                            "Visible": true
+                        },
+                        "Geometry": {
+                            "Height": 28,
+                            "Left": 353,
+                            "Top": 271,
+                            "Width": 16.734375
+                        },
+                        "Text": {
+                            "Caption": "0",
+                            "Color": "#aa0000",
+                            "Font": "Seven_Segment_Regular_121_159_",
+                            "MaxLength": 0,
+                            "VerticalText": false
+                        }
+                    }
+                },
+                {
+                    "Events": {
+                    },
+                    "Properties": {
+                        "ClassType": "Label",
+                        "Component": {
+                            "Active": true,
+                            "Name": "tensMinutes_value",
+                            "StackOrder": 23,
+                            "Static": false,
+                            "Visible": true
+                        },
+                        "Geometry": {
+                            "Height": 28,
+                            "Left": 435,
+                            "Top": 271,
+                            "Width": 16.734375
+                        },
+                        "Text": {
+                            "Caption": "0",
+                            "Color": "#aa0000",
+                            "Font": "Seven_Segment_Regular_121_159_",
+                            "MaxLength": 0,
+                            "VerticalText": false
+                        }
+                    }
+                },
+                {
+                    "Events": {
+                    },
+                    "Properties": {
+                        "ClassType": "Label",
+                        "Component": {
+                            "Active": true,
+                            "Name": "unitsMinutes_value",
+                            "StackOrder": 24,
+                            "Static": false,
+                            "Visible": true
+                        },
+                        "Geometry": {
+                            "Height": 28,
+                            "Left": 496,
+                            "Top": 271,
+                            "Width": 16.734375
+                        },
+                        "Text": {
+                            "Caption": "0",
+                            "Color": "#aa0000",
+                            "Font": "Seven_Segment_Regular_121_159_",
+                            "MaxLength": 0,
+                            "VerticalText": false
+                        }
+                    }
+                },
+                {
+                    "Events": {
+                    },
+                    "Properties": {
+                        "ClassType": "Label",
+                        "Component": {
+                            "Active": true,
+                            "Name": "ampm_value",
+                            "StackOrder": 25,
+                            "Static": false,
+                            "Visible": true
+                        },
+                        "Geometry": {
+                            "Height": 28,
+                            "Left": 593,
+                            "Top": 274,
+                            "Width": 17.671875
+                        },
+                        "Text": {
+                            "Caption": "A",
+                            "Color": "#aa0000",
+                            "Font": "Seven_Segment_Regular_121_159_",
+                            "MaxLength": 0,
+                            "VerticalText": false
+                        }
+                    }
+                }
+            ],
+            "Properties": {
+                "Locked": false,
+                "Name": "Layer0",
+                "Visible": true
+            }
+        }
+    ],
+    "Properties": {
+        "Active": true,
+        "Color": "#0d0d0d",
+        "Grid": {
+            "Color": "#c0c0c0",
+            "Enabled": false,
+            "Size": 10,
+            "Snap": false,
+            "Type": "Dot"
+        },
+        "Name": "main_screen",
+        "ScreenHeight": 480,
+        "ScreenWidth": 800,
+        "Static": false
+    },
+    "Type": "Standard",
+    "Version": 2
+}

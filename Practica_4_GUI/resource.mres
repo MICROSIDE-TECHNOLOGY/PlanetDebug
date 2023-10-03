@@ -1,0 +1,32 @@
+[
+    {
+        "alias": "Seven_Segment_Regular_121_159_",
+        "dpi": 72,
+        "endChar": 127,
+        "family": "Seven Segment",
+        "id": 1,
+        "italic": false,
+        "pointSize": 121,
+        "startChar": 32,
+        "strikeOut": false,
+        "styleName": "Regular",
+        "type": "font",
+        "underline": false,
+        "weight": 50
+    },
+    {
+        "alias": "Arial_Normal_36_159_",
+        "dpi": 72,
+        "endChar": 127,
+        "family": "Arial",
+        "id": 1,
+        "italic": false,
+        "pointSize": 36,
+        "startChar": 32,
+        "strikeOut": false,
+        "styleName": "Normal",
+        "type": "font",
+        "underline": false,
+        "weight": 50
+    }
+]

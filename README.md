@@ -4,7 +4,7 @@ These are the examples used by Microside Technology to showcase [Planet Debug ca
 
 ## Software used
 
-- NECTO Studio v3.0.0 or newer (https://www.mikroe.com/necto)
+- NECTO Studio v4.0.0 or newer (https://www.mikroe.com/necto)
 
 - MikroSDK v2.7.2 (downloaded within NECTO)
 

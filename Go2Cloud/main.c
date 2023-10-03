@@ -68,12 +68,12 @@ static log_t logger;
 
 
 // Operator settings
-#define NETWORK_USERNAME  "wifi_ssid"
-#define NETWORK_PASSWORD  "wifi_pass"
+#define NETWORK_USERNAME  "Microside_2G1"
+#define NETWORK_PASSWORD  "MSD_2G1sde"
 
 // Broker(device) settings
-#define DEVICE_KEY        "device_key"
-#define DEVICE_PASSWORD   "device_password"
+#define DEVICE_KEY        "5jfxzzgpal0db89w"
+#define DEVICE_PASSWORD   "1188ea4c-1384-4532-9724-d302087e8442"
 
 static char data_buf[ 20 ] = "";
 static char current_parser_buf[ PROCESS_PARSER_BUFFER_SIZE ];

@@ -28,5 +28,26 @@
         "type": "font",
         "underline": false,
         "weight": 50
+    },
+    {
+        "alias": "logo_venta_equipos_2256x109",
+        "original_path": "C:/Users/victo/OneDrive/Documentos/Github/MT/LOGO VENTA EQUIPOS 2.png",
+        "path": "C:/Users/victo/OneDrive/Documentos/Github/MT/PlanetDebug/Practica_4_GUI/resources/logo_venta_equipos_2256x109.png",
+        "quality": 50,
+        "type": "image"
+    },
+    {
+        "alias": "logo_de_la_unad188x157",
+        "original_path": "C:/Users/victo/OneDrive/Documentos/Github/MT/Logo_de_la_UNAD.svg.png",
+        "path": "C:/Users/victo/OneDrive/Documentos/Github/MT/PlanetDebug/Practica_4_GUI/resources/logo_de_la_unad188x157.png",
+        "quality": 50,
+        "type": "image"
+    },
+    {
+        "alias": "ms_logo145x128",
+        "original_path": "C:/Users/victo/OneDrive/Documentos/Github/MT/ms_logo.png",
+        "path": "C:/Users/victo/OneDrive/Documentos/Github/MT/PlanetDebug/Practica_4_GUI/resources/ms_logo145x128.png",
+        "quality": 50,
+        "type": "image"
     }
 ]

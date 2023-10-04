@@ -228,7 +228,7 @@
                         "Component": {
                             "Active": true,
                             "Name": "temp_label",
-                            "StackOrder": 8,
+                            "StackOrder": 7,
                             "Static": false,
                             "Visible": true
                         },
@@ -255,7 +255,7 @@
                         "Component": {
                             "Active": true,
                             "Name": "hum_label",
-                            "StackOrder": 9,
+                            "StackOrder": 8,
                             "Static": false,
                             "Visible": true
                         },
@@ -295,7 +295,7 @@
                             "Active": false,
                             "CornerRadius": 0,
                             "Name": "temp_mask",
-                            "StackOrder": 10,
+                            "StackOrder": 9,
                             "Static": false,
                             "Visible": true
                         },
@@ -319,7 +319,7 @@
                         "Component": {
                             "Active": true,
                             "Name": "temp_value",
-                            "StackOrder": 11,
+                            "StackOrder": 10,
                             "Static": false,
                             "Visible": true
                         },
@@ -359,7 +359,7 @@
                             "Active": false,
                             "CornerRadius": 0,
                             "Name": "hum_mask",
-                            "StackOrder": 12,
+                            "StackOrder": 11,
                             "Static": false,
                             "Visible": true
                         },
@@ -383,7 +383,7 @@
                         "Component": {
                             "Active": true,
                             "Name": "hum_value",
-                            "StackOrder": 13,
+                            "StackOrder": 12,
                             "Static": false,
                             "Visible": true
                         },
@@ -423,7 +423,7 @@
                             "Active": false,
                             "CornerRadius": 0,
                             "Name": "tensHours_mask",
-                            "StackOrder": 14,
+                            "StackOrder": 13,
                             "Static": false,
                             "Visible": true
                         },
@@ -460,7 +460,7 @@
                             "Active": false,
                             "CornerRadius": 0,
                             "Name": "unitsHours_mask",
-                            "StackOrder": 15,
+                            "StackOrder": 14,
                             "Static": false,
                             "Visible": true
                         },
@@ -497,7 +497,7 @@
                             "Active": false,
                             "CornerRadius": 0,
                             "Name": "tensMinutes_mask",
-                            "StackOrder": 16,
+                            "StackOrder": 15,
                             "Static": false,
                             "Visible": true
                         },
@@ -534,7 +534,7 @@
                             "Active": false,
                             "CornerRadius": 0,
                             "Name": "unitsMinutes_mask",
-                            "StackOrder": 17,
+                            "StackOrder": 16,
                             "Static": false,
                             "Visible": true
                         },
@@ -571,7 +571,7 @@
                             "Active": false,
                             "CornerRadius": 0,
                             "Name": "ampm_mask",
-                            "StackOrder": 18,
+                            "StackOrder": 17,
                             "Static": false,
                             "Visible": true
                         },
@@ -595,7 +595,7 @@
                         "Component": {
                             "Active": true,
                             "Name": "time_value",
-                            "StackOrder": 20,
+                            "StackOrder": 18,
                             "Static": false,
                             "Visible": true
                         },
@@ -622,7 +622,7 @@
                         "Component": {
                             "Active": true,
                             "Name": "tensHours_value",
-                            "StackOrder": 21,
+                            "StackOrder": 19,
                             "Static": false,
                             "Visible": true
                         },
@@ -649,7 +649,7 @@
                         "Component": {
                             "Active": true,
                             "Name": "unitsHours_value",
-                            "StackOrder": 22,
+                            "StackOrder": 20,
                             "Static": false,
                             "Visible": true
                         },
@@ -676,7 +676,7 @@
                         "Component": {
                             "Active": true,
                             "Name": "tensMinutes_value",
-                            "StackOrder": 23,
+                            "StackOrder": 21,
                             "Static": false,
                             "Visible": true
                         },
@@ -703,7 +703,7 @@
                         "Component": {
                             "Active": true,
                             "Name": "unitsMinutes_value",
-                            "StackOrder": 24,
+                            "StackOrder": 22,
                             "Static": false,
                             "Visible": true
                         },
@@ -730,7 +730,7 @@
                         "Component": {
                             "Active": true,
                             "Name": "ampm_value",
-                            "StackOrder": 25,
+                            "StackOrder": 23,
                             "Static": false,
                             "Visible": true
                         },
@@ -746,6 +746,81 @@
                             "Font": "Seven_Segment_Regular_121_159_",
                             "MaxLength": 0,
                             "VerticalText": false
+                        }
+                    }
+                },
+                {
+                    "Events": {
+                        "OnClick": null,
+                        "OnDown": null,
+                        "OnPress": null,
+                        "OnUp": null
+                    },
+                    "Properties": {
+                        "ClassType": "Image",
+                        "Component": {
+                            "Active": true,
+                            "Image": "logo_venta_equipos_2256x109",
+                            "Name": "Image_0",
+                            "StackOrder": 24,
+                            "Static": false,
+                            "Visible": true
+                        },
+                        "Geometry": {
+                            "Height": 109,
+                            "Left": 6.5,
+                            "Top": 349,
+                            "Width": 256
+                        }
+                    }
+                },
+                {
+                    "Events": {
+                        "OnClick": null,
+                        "OnDown": null,
+                        "OnPress": null,
+                        "OnUp": null
+                    },
+                    "Properties": {
+                        "ClassType": "Image",
+                        "Component": {
+                            "Active": true,
+                            "Image": "logo_de_la_unad188x157",
+                            "Name": "Image_1",
+                            "StackOrder": 25,
+                            "Static": false,
+                            "Visible": true
+                        },
+                        "Geometry": {
+                            "Height": 157,
+                            "Left": 40.61235955056179,
+                            "Top": 177.85393258426967,
+                            "Width": 187.77528089887642
+                        }
+                    }
+                },
+                {
+                    "Events": {
+                        "OnClick": null,
+                        "OnDown": null,
+                        "OnPress": null,
+                        "OnUp": null
+                    },
+                    "Properties": {
+                        "ClassType": "Image",
+                        "Component": {
+                            "Active": true,
+                            "Image": "ms_logo145x128",
+                            "Name": "Image_2",
+                            "StackOrder": 26,
+                            "Static": false,
+                            "Visible": true
+                        },
+                        "Geometry": {
+                            "Height": 128.08988764044943,
+                            "Left": 62.02808988764045,
+                            "Top": 35.61797752808987,
+                            "Width": 144.9438202247191
                         }
                     }
                 }
@@ -775,3 +850,4 @@
     "Type": "Standard",
     "Version": 2
 }
+

@@ -36,5 +36,20 @@
         "pointSize": 0,
         "quality": 50,
         "type": "image"
+    },
+    {
+        "alias": "Sans_Serif_16_159",
+        "dpi": 72,
+        "endChar": 127,
+        "family": "Sans Serif",
+        "id": 1,
+        "italic": false,
+        "pointSize": 16,
+        "startChar": 32,
+        "strikeOut": false,
+        "styleName": "",
+        "type": "font",
+        "underline": false,
+        "weight": 50
     }
 ]

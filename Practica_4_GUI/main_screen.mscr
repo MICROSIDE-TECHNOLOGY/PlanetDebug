@@ -760,56 +760,6 @@
                         "ClassType": "Image",
                         "Component": {
                             "Active": true,
-                            "Image": "logo_venta_equipos_2256x109",
-                            "Name": "Image_0",
-                            "StackOrder": 24,
-                            "Static": false,
-                            "Visible": true
-                        },
-                        "Geometry": {
-                            "Height": 109,
-                            "Left": 6.5,
-                            "Top": 349,
-                            "Width": 256
-                        }
-                    }
-                },
-                {
-                    "Events": {
-                        "OnClick": null,
-                        "OnDown": null,
-                        "OnPress": null,
-                        "OnUp": null
-                    },
-                    "Properties": {
-                        "ClassType": "Image",
-                        "Component": {
-                            "Active": true,
-                            "Image": "logo_de_la_unad188x157",
-                            "Name": "Image_1",
-                            "StackOrder": 25,
-                            "Static": false,
-                            "Visible": true
-                        },
-                        "Geometry": {
-                            "Height": 157,
-                            "Left": 40.61235955056179,
-                            "Top": 177.85393258426967,
-                            "Width": 187.77528089887642
-                        }
-                    }
-                },
-                {
-                    "Events": {
-                        "OnClick": null,
-                        "OnDown": null,
-                        "OnPress": null,
-                        "OnUp": null
-                    },
-                    "Properties": {
-                        "ClassType": "Image",
-                        "Component": {
-                            "Active": true,
                             "Image": "ms_logo145x128",
                             "Name": "Image_2",
                             "StackOrder": 26,
@@ -817,10 +767,10 @@
                             "Visible": true
                         },
                         "Geometry": {
-                            "Height": 128.08988764044943,
-                            "Left": 62.02808988764045,
-                            "Top": 35.61797752808987,
-                            "Width": 144.9438202247191
+                            "Height": 128,
+                            "Left": 46,
+                            "Top": 171,
+                            "Width": 145
                         }
                     }
                 }
@@ -850,4 +800,3 @@
     "Type": "Standard",
     "Version": 2
 }
-
